@@ -1,0 +1,69 @@
+
+icon_10-A.png
+size: 257,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 206, 170
+  orig: 208, 172
+  offset: 1, 1
+  index: -1
+light_A
+  rotate: true
+  xy: 2, 413
+  size: 101, 121
+  orig: 114, 134
+  offset: 6, 7
+  index: -1
+light_J
+  rotate: true
+  xy: 2, 516
+  size: 75, 123
+  orig: 88, 135
+  offset: 6, 7
+  index: -1
+light_K
+  rotate: true
+  xy: 2, 299
+  size: 112, 118
+  orig: 125, 130
+  offset: 6, 7
+  index: -1
+light_Q
+  rotate: true
+  xy: 2, 176
+  size: 121, 130
+  orig: 133, 135
+  offset: 5, 3
+  index: -1
+tittle_A
+  rotate: true
+  xy: 125, 413
+  size: 101, 121
+  orig: 102, 122
+  offset: 0, 1
+  index: -1
+tittle_J
+  rotate: true
+  xy: 127, 516
+  size: 75, 123
+  orig: 77, 125
+  offset: 1, 2
+  index: -1
+tittle_K
+  rotate: true
+  xy: 122, 299
+  size: 112, 118
+  orig: 113, 119
+  offset: 0, 1
+  index: -1
+tittle_Q
+  rotate: false
+  xy: 134, 174
+  size: 121, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1

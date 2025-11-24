@@ -1,0 +1,125 @@
+
+exfire.jpg
+size: 306,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+STAR
+  rotate: false
+  xy: 254, 40
+  size: 49, 56
+  orig: 55, 59
+  offset: 3, 1
+  index: -1
+btn_ex
+  rotate: false
+  xy: 128, 2
+  size: 124, 94
+  orig: 124, 96
+  offset: 0, 2
+  index: -1
+btn_ex_01
+  rotate: false
+  xy: 2, 14
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+greenfire_00
+  rotate: false
+  xy: 2, 700
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_01
+  rotate: false
+  xy: 153, 686
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_02
+  rotate: false
+  xy: 2, 553
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_03
+  rotate: false
+  xy: 153, 539
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_04
+  rotate: false
+  xy: 2, 406
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_05
+  rotate: false
+  xy: 154, 833
+  size: 150, 145
+  orig: 150, 147
+  offset: 0, 2
+  index: -1
+greenfire_06
+  rotate: false
+  xy: 153, 392
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_07
+  rotate: false
+  xy: 153, 98
+  size: 148, 145
+  orig: 150, 147
+  offset: 2, 2
+  index: -1
+greenfire_08
+  rotate: false
+  xy: 2, 259
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_09
+  rotate: false
+  xy: 153, 245
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+greenfire_10
+  rotate: false
+  xy: 2, 847
+  size: 150, 146
+  orig: 150, 147
+  offset: 0, 1
+  index: -1
+greenfire_11
+  rotate: false
+  xy: 2, 112
+  size: 149, 145
+  orig: 150, 147
+  offset: 1, 2
+  index: -1
+light 
+  rotate: false
+  xy: 2, 995
+  size: 162, 78
+  orig: 162, 78
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 166, 980
+  size: 137, 93
+  orig: 137, 96
+  offset: 0, 0
+  index: -1

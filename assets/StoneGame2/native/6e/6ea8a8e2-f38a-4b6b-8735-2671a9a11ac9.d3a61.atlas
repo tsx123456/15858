@@ -1,0 +1,76 @@
+
+icon_baoshi.png
+size: 773,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 132
+  size: 204, 167
+  orig: 204, 167
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 414, 132
+  size: 203, 167
+  orig: 204, 167
+  offset: 1, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 208, 132
+  size: 204, 167
+  orig: 204, 167
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 466, 61
+  size: 72, 69
+  orig: 76, 71
+  offset: 2, 0
+  index: -1
+light_A
+  rotate: true
+  xy: 2, 5
+  size: 125, 136
+  orig: 129, 138
+  offset: 2, 1
+  index: -1
+light_K
+  rotate: true
+  xy: 619, 2
+  size: 141, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+light_Q
+  rotate: false
+  xy: 619, 145
+  size: 152, 154
+  orig: 156, 156
+  offset: 2, 1
+  index: -1
+tittle_A
+  rotate: true
+  xy: 364, 41
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+tittle_K
+  rotate: false
+  xy: 258, 26
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+tittle_Q
+  rotate: false
+  xy: 140, 14
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
